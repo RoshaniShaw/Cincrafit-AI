@@ -1,0 +1,17 @@
+node_modules/
+**/node_modules/
+
+.env
+.env.*
+**/.env
+**/.env.*
+
+firebase-admin-key.json
+**/firebase-admin-key.json
+
+dist/
+build/
+
+*.log
+.DS_Store
+Thumbs.db
